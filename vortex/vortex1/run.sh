@@ -10,5 +10,5 @@
 #
 # What's wrong?
 
-#(./solve.sh ; cat) | ./02
-cat input_sequence.txt - | ./02
+#(./solve.sh ; cat) | ./vortex01
+cat input_sequence.txt - | ./vortex01
